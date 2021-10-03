@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "dzyfhuba_app",
+    "slug": "dzyfhuba_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "dzyfhuba_app"
+}
